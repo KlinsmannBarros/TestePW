@@ -1,0 +1,58 @@
+<database>
+  <actors>
+    <actor id="1">
+      <name>Leonardo DiCaprio</name>
+      <dateOfBirth>1974-11-11</dateOfBirth>
+      <movies>
+        <movie id="101">
+          <title>Inception</title>
+          <year>2010</year>
+          <role>Cobb</role>
+        </movie>
+        <movie id="102">
+          <title>Titanic</title>
+          <year>1997</year>
+          <role>Jack Dawson</role>
+        </movie>
+      </movies>
+    </actor>
+    <actor id="2">
+      <name>Scarlett Johansson</name>
+      <dateOfBirth>1984-11-22</dateOfBirth>
+      <movies>
+        <movie id="103">
+          <title>Avengers: Endgame</title>
+          <year>2019</year>
+          <role>Natasha Romanoff / Black Widow</role>
+        </movie>
+        <movie id="104">
+          <title>Lost in Translation</title>
+          <year>2003</year>
+          <role>Charlotte</role>
+        </movie>
+      </movies>
+    </actor>
+  </actors>
+  <movies>
+    <movie id="101">
+      <title>Inception</title>
+      <year>2010</year>
+      <genre>Sci-Fi</genre>
+    </movie>
+    <movie id="102">
+      <title>Titanic</title>
+      <year>1997</year>
+      <genre>Romance</genre>
+    </movie>
+    <movie id="103">
+      <title>Avengers: Endgame</title>
+      <year>2019</year>
+      <genre>Action</genre>
+    </movie>
+    <movie id="104">
+      <title>Lost in Translation</title>
+      <year>2003</year>
+      <genre>Drama</genre>
+    </movie>
+  </movies>
+</database>
